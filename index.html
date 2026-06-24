@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overtime Analysis Agent | Analytics Dashboard</title>
+    <!-- Google Fonts: Outfit & Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Lucide Icons CDN -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Marked.js Markdown Parser CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- Favicon link -->
+    <link class="icon-link" rel="icon" type="image/png" href="https://cdn.beta.metro.net/wp-content/uploads/2021/04/04233038/cropped-metro-logo-512x512-1-192x192.png">
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="index.css?v=2.27">
+</head>
+<body>
+    <div class="app-container">
+        <!-- HEADER -->
+        <header class="app-header">
+            <div class="logo-area">
+                <div class="logo-icon-wrapper">
+                    <img src="https://cdn.beta.metro.net/wp-content/uploads/2021/04/04233038/cropped-metro-logo-512x512-1-192x192.png" class="logo-icon" alt="Metro Logo">
+                    <div class="logo-pulse"></div>
+                </div>
+                <div class="logo-text">
+                    <h1>Overtime Analysis Agent</h1>
+                </div>
+            </div>
+            
+            <div class="header-controls">
+                <div class="year-selector">
+                    <select id="year-select" class="year-select">
+                        <option value="2026" selected>2026</option>
+                        <option value="2025">2025</option>
+                        <option value="2024">2024</option>
+                    </select>
+                </div>
+
+                <div class="timeframe-selector">
+                    <!-- Loaded programmatically from index.js -->
+                </div>
+                
+                <button class="action-btn header-sync" title="Sync Live Data" id="btn-sync-data">
+                    <i data-lucide="refresh-cw" class="icon-sm"></i>
+                    <span>Sync</span>
+                </button>
+
+                <button class="action-btn header-theme-toggle" title="Switch to Dark Mode" id="btn-theme-toggle">
+                    <i data-lucide="moon" class="icon-sm" id="theme-toggle-icon"></i>
+                </button>
+            </div>
+        </header>
+
+        <!-- MAIN LAYOUT -->
+        <main class="main-layout">
+            
+            <!-- LEFT PANEL: DASHBOARD VISUALIZATIONS & METRICS -->
+            <section class="left-panel dashboard-container">
+                
+                <!-- KPI METRICS GRID -->
+                <div class="metrics-grid">
+                    <div class="metric-card glass-panel" id="kpi-hours">
+                        <div class="card-icon-header">
+                            <span class="card-icon-bg violet"><i data-lucide="clock" class="metric-icon"></i></span>
+                            <span class="trend-badge positive" id="kpi-hours-trend"><i data-lucide="trending-down"></i> -12.4%</span>
+                        </div>
+                        <div class="metric-info">
+                            <span class="metric-label">Total Overtime Hours</span>
+                            <h3 class="metric-value" id="kpi-hours-val">1,642h</h3>
+                        </div>
+                        <div class="card-glow-bg"></div>
+                    </div>
+
+                    <div class="metric-card glass-panel" id="kpi-vacancies">
+                        <div class="card-icon-header">
+                            <span class="card-icon-bg cyan"><i data-lucide="briefcase" class="metric-icon"></i></span>
+                            <span class="trend-badge negative" id="kpi-vacancies-trend"><i data-lucide="trending-up"></i> +18.2%</span>
+                        </div>
+                        <div class="metric-info">
+                            <span class="metric-label">Job Vacancies</span>
+                            <h3 class="metric-value" id="kpi-vacancies-val">45</h3>
+                        </div>
+                        <div class="card-glow-bg"></div>
+                    </div>
+
+                    <div class="metric-card glass-panel" id="kpi-cost">
+                        <div class="card-icon-header">
+                            <span class="card-icon-bg emerald"><i data-lucide="dollar-sign" class="metric-icon"></i></span>
+                            <span class="trend-badge positive" id="kpi-cost-trend"><i data-lucide="trending-down"></i> -$14,200</span>
+                        </div>
+                        <div class="metric-info">
+                            <span class="metric-label">Estimated OT Cost</span>
+                            <h3 class="metric-value" id="kpi-cost-val">$98,520</h3>
+                        </div>
+                        <div class="card-glow-bg"></div>
+                    </div>
+
+                    <div class="metric-card glass-panel" id="kpi-driver">
+                        <div class="card-icon-header">
+                            <span class="card-icon-bg rose"><i data-lucide="alert-triangle" class="metric-icon"></i></span>
+                            <span class="driver-tag alert" id="kpi-driver-badge">High Impact</span>
+                        </div>
+                        <div class="metric-info">
+                            <span class="metric-label">Primary Driver</span>
+                            <h3 class="metric-value text-glow-rose" id="kpi-primary-driver-val">Logistics Vacancies</h3>
+                        </div>
+                        <div class="card-glow-bg"></div>
+                    </div>
+                </div>
+
+                <!-- CHART 1: MAIN TREND CORRELATION -->
+                <div class="chart-section-card glass-panel">
+                    <div class="section-card-header">
+                        <div class="card-title-group">
+                            <i data-lucide="line-chart" class="section-icon text-cyan"></i>
+                            <div>
+                                <h2>Overtime & Vacancy Trends (%)</h2>
+                                <p class="card-subtitle">Correlation of staff shortages, overtime workload, and budget impact</p>
+                            </div>
+                        </div>
+                        
+                        <!-- FILTER PANEL NEAR GRAPH -->
+                        <div class="inline-filter-panel">
+                            <div class="filter-row-top">
+                                <div class="filter-group">
+                                    <label for="dept-select">Department:</label>
+                                    <select id="dept-select" class="custom-select">
+                                        <option value="all">All Departments</option>
+                                        <option value="logistics">Logistics & Supply Chain</option>
+                                        <option value="cs">Customer Support</option>
+                                        <option value="engineering">Software Engineering</option>
+                                        <option value="finance">Finance & Billing</option>
+                                    </select>
+                                </div>
+                                
+                                <label class="checkbox-wrapper" id="wrapper-toggle-predictions">
+                                    <input type="checkbox" id="toggle-predictions" checked>
+                                    <span class="custom-checkbox"></span>
+                                    <span class="checkbox-text text-violet">Show Predictions</span>
+                                </label>
+                            </div>
+                            
+                            <div class="filter-row-bottom">
+                                <div class="checkbox-filters">
+                                    <label class="checkbox-wrapper">
+                                        <input type="checkbox" id="toggle-vacancies" checked>
+                                        <span class="custom-checkbox"></span>
+                                        <span class="checkbox-text">Vacancy Rate (%)</span>
+                                    </label>
+                                    <label class="checkbox-wrapper">
+                                        <input type="checkbox" id="toggle-ot-hours" checked>
+                                        <span class="custom-checkbox"></span>
+                                        <span class="checkbox-text">Overtime Hours (%)</span>
+                                    </label>
+                                    <label class="checkbox-wrapper">
+                                        <input type="checkbox" id="toggle-trendline" checked>
+                                        <span class="custom-checkbox"></span>
+                                        <span class="checkbox-text">Overtime Pay (%)</span>
+                                    </label>
+                                    <label class="checkbox-wrapper">
+                                        <input type="checkbox" id="toggle-events-overlay" checked>
+                                        <span class="custom-checkbox"></span>
+                                        <span class="checkbox-text text-rose">Show Events</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="chart-canvas-wrapper">
+                        <canvas id="trendChart"></canvas>
+                    </div>
+                    
+                    <!-- ACTIVE EVENTS QUICK-ACCESS LIST -->
+                    <div class="active-events-list-container" id="active-events-list-container" style="display: none;">
+                        <!-- Populated dynamically via JS -->
+                    </div>
+                </div>
+
+                <!-- TWO COLUMN SECONDARY GRAPHS -->
+                <div class="charts-two-col">
+                    <!-- CHART 2: DRIVER PROPORTIONS -->
+                    <div class="chart-section-card glass-panel">
+                        <div class="section-card-header">
+                            <div class="card-title-group">
+                                <i data-lucide="pie-chart" class="section-icon text-violet"></i>
+                                <div>
+                                    <h2>Overtime Cost Drivers</h2>
+                                    <p class="card-subtitle">Root causes triggering overtime hours</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="chart-two-col-layout">
+                            <div class="chart-canvas-wrapper-sm">
+                                <canvas id="driversChart"></canvas>
+                            </div>
+                            
+                            <!-- CONTROLS DIRECTLY INTEGRATED NEAR GRAPH -->
+                            <div class="chart-sidebar-filters">
+                                <span class="filter-sidebar-title">Include Drivers:</span>
+                                <div class="checkbox-filters-vertical">
+                                    <label class="checkbox-wrapper filter-chip driver-violet">
+                                        <input type="checkbox" class="driver-checkbox" value="understaffing" checked>
+                                        <span class="custom-checkbox"></span>
+                                        <span class="checkbox-text">Understaffing (38%)</span>
+                                    </label>
+                                    <label class="checkbox-wrapper filter-chip driver-cyan">
+                                        <input type="checkbox" class="driver-checkbox" value="outages" checked>
+                                        <span class="custom-checkbox"></span>
+                                        <span class="checkbox-text">System Outages (22%)</span>
+                                    </label>
+                                    <label class="checkbox-wrapper filter-chip driver-rose">
+                                        <input type="checkbox" class="driver-checkbox" value="seasonality" checked>
+                                        <span class="custom-checkbox"></span>
+                                        <span class="checkbox-text">Seasonal Peaks (18%)</span>
+                                    </label>
+                                    <label class="checkbox-wrapper filter-chip driver-warning">
+                                        <input type="checkbox" class="driver-checkbox" value="backlog" checked>
+                                        <span class="custom-checkbox"></span>
+                                        <span class="checkbox-text">Backlog Clearance (15%)</span>
+                                    </label>
+                                    <label class="checkbox-wrapper filter-chip driver-muted">
+                                        <input type="checkbox" class="driver-checkbox" value="others" checked>
+                                        <span class="custom-checkbox"></span>
+                                        <span class="checkbox-text">Other Events (7%)</span>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- TABLE DATA SECTION -->
+                <div class="data-table-section glass-panel">
+                    <div class="table-header">
+                        <div class="table-title-group">
+                            <i data-lucide="database" class="section-icon text-emerald"></i>
+                            <div>
+                                <h2>Detailed Overtime Logs</h2>
+                                <p class="card-subtitle">Granular view of approved overtime transactions during this timeframe</p>
+                            </div>
+                        </div>
+                        <div class="table-actions">
+                            <div class="table-search">
+                                <i data-lucide="search" class="search-icon"></i>
+                                <input type="text" id="table-search-input" placeholder="Search employee, reason...">
+                            </div>
+                            <button class="action-btn table-export" id="btn-export-csv">
+                                <i data-lucide="download" class="icon-sm"></i>
+                                <span>Export CSV</span>
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <div class="table-wrapper">
+                        <table class="dashboard-table" id="ot-logs-table">
+                            <thead>
+                                <tr>
+                                    <th data-sort="employee">Employee <i data-lucide="chevrons-up-down" class="sort-icon"></i></th>
+                                    <th data-sort="department">Department <i data-lucide="chevrons-up-down" class="sort-icon"></i></th>
+                                    <th data-sort="date">Date <i data-lucide="chevrons-up-down" class="sort-icon"></i></th>
+                                    <th data-sort="hours" class="num-align">OT Hours <i data-lucide="chevrons-up-down" class="sort-icon"></i></th>
+                                    <th>Trigger Event / Root Cause</th>
+                                    <th data-sort="cost" class="num-align">Estimated Cost <i data-lucide="chevrons-up-down" class="sort-icon"></i></th>
+                                    <th data-sort="status">Status <i data-lucide="chevrons-up-down" class="sort-icon"></i></th>
+                                </tr>
+                            </thead>
+                            <tbody id="table-body">
+                                <!-- Populated Dynamically via JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="table-footer">
+                        <span class="showing-text" id="table-showing-info">Showing 8 of 24 logs</span>
+                        <div class="pagination-controls">
+                            <button class="pag-btn" id="pag-prev" disabled><i data-lucide="chevron-left"></i></button>
+                            <span class="page-num-indicator" id="page-indicator">Page 1 of 3</span>
+                            <button class="pag-btn" id="pag-next"><i data-lucide="chevron-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
+            <!-- RIGHT PANEL: AI AGENT INTERACTIVE CHAT -->
+            <section class="right-panel chat-container glass-panel">
+                
+                <!-- CHAT HEADER -->
+                <div class="chat-header">
+                    <div class="agent-profile">
+                        <div class="agent-avatar-wrapper">
+                            <div class="agent-avatar">
+                                <i data-lucide="bot" class="agent-bot-icon"></i>
+                            </div>
+                        </div>
+                        <div class="agent-info-text">
+                            <h3>Chat with our AI Agent</h3>
+                        </div>
+                    </div>
+                    
+                    <button class="chat-menu-btn" title="Clear Chat History" id="btn-clear-chat">
+                        <i data-lucide="trash-2" class="icon-sm"></i>
+                    </button>
+                </div>
+
+                <!-- CHAT SCREEN / LOG -->
+                <div class="chat-messages" id="chat-messages-container">
+                    <!-- Loaded dynamically, starting with initial introductory messages -->
+                </div>
+
+                <!-- ACTIVE THINKING BAR -->
+                <div class="agent-thinking-bar hidden" id="agent-thinking-indicator">
+                    <div class="thinking-spinner">
+                        <span class="spinner-dot"></span>
+                        <span class="spinner-dot"></span>
+                        <span class="spinner-dot"></span>
+                    </div>
+                    <span class="thinking-text" id="thinking-status-text">Analyzing database records...</span>
+                </div>
+
+                <!-- SUGGESTED QUERY CHIPS -->
+                <div class="suggested-queries-area">
+                    <span class="suggestions-title">Ask about the data:</span>
+                    <div class="query-chips-wrapper" id="query-chips-container">
+                        <button class="query-chip" data-query="Explain the massive overtime hours spike in April.">
+                            <span class="chip-emoji">🔍</span> Explain April OT Spike
+                        </button>
+                        <button class="query-chip" data-query="How do open vacancies in Logistics correlate with our overtime spend?">
+                            <span class="chip-emoji">📈</span> Vacancy vs OT correlation
+                        </button>
+                        <button class="query-chip" data-query="Did the ERP System Upgrade in May cause Customer Support overtime?">
+                            <span class="chip-emoji">⚡</span> IT Outage Impact
+                        </button>
+                        <button class="query-chip" data-query="What proactive hiring strategy do you recommend to reduce overtime?">
+                            <span class="chip-emoji">💡</span> Hiring Recommendations
+                        </button>
+                    </div>
+                </div>
+
+                <!-- CHAT INPUT AREA -->
+                <div class="chat-input-container">
+                    <textarea id="chat-input" placeholder="Ask a question about the overtime data..." rows="1"></textarea>
+                    
+                    <div class="chat-input-toolbar">
+                        <button class="send-btn" id="btn-send-chat" disabled>
+                            <i data-lucide="send" class="icon-sm"></i>
+                        </button>
+                    </div>
+                </div>
+
+            </section>
+
+        </main>
+    </div>
+
+    <!-- Theme Transition Color Tracker (for canvas event labels) -->
+    <div id="theme-transition-tracker" class="hidden-tracker"></div>
+
+    <!-- Script Entrypoints -->
+    <script src="index.js?v=2.29"></script>
+    <script src="chat.js?v=2.29"></script>
+</body>
+</html>
