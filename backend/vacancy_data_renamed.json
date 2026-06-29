@@ -1,0 +1,6406 @@
+[{
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "CONGESTION REDUCTION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "19",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "CONGESTION REDUCTION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "19",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "CONGESTION REDUCTION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "19",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "CONGESTION REDUCTION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "19",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "CONGESTION REDUCTION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "19",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "CONGESTION REDUCTION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "19",
+  "Vacancy Percentage": "5.26"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "CONGESTION REDUCTION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "19",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "CONGESTION REDUCTION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "19",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "CONGESTION REDUCTION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "19",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "CONGESTION REDUCTION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "19",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "CONGESTION REDUCTION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "19",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, SHARED MOBILITY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, SHARED MOBILITY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, SHARED MOBILITY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, SHARED MOBILITY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, SHARED MOBILITY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, SHARED MOBILITY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, SHARED MOBILITY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, SHARED MOBILITY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "50.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, SHARED MOBILITY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, SHARED MOBILITY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, SHARED MOBILITY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "59",
+  "Vacancy Percentage": "11.86"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "62",
+  "Vacancy Percentage": "9.68"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "61",
+  "Vacancy Percentage": "13.11"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "61",
+  "Vacancy Percentage": "8.2"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "61",
+  "Vacancy Percentage": "8.2"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "61",
+  "Vacancy Percentage": "9.84"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "62",
+  "Vacancy Percentage": "11.29"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "62",
+  "Vacancy Percentage": "9.68"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "61",
+  "Vacancy Percentage": "8.2"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "61",
+  "Vacancy Percentage": "8.2"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "61",
+  "Vacancy Percentage": "11.48"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "75",
+  "Budgeted Positions": "388",
+  "Vacancy Percentage": "19.33"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "142",
+  "Budgeted Positions": "388",
+  "Vacancy Percentage": "36.6"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "123",
+  "Budgeted Positions": "388",
+  "Vacancy Percentage": "31.7"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "100",
+  "Budgeted Positions": "388",
+  "Vacancy Percentage": "25.77"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "123",
+  "Budgeted Positions": "388",
+  "Vacancy Percentage": "31.7"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "148",
+  "Budgeted Positions": "388",
+  "Vacancy Percentage": "38.14"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "74",
+  "Budgeted Positions": "388",
+  "Vacancy Percentage": "19.07"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "40",
+  "Budgeted Positions": "388",
+  "Vacancy Percentage": "10.31"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "144",
+  "Budgeted Positions": "388",
+  "Vacancy Percentage": "37.11"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "144",
+  "Budgeted Positions": "388",
+  "Vacancy Percentage": "37.11"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "DPS CARE-BASED SERVICE DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "144",
+  "Budgeted Positions": "388",
+  "Vacancy Percentage": "37.11"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "15.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "15.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "15.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "6.67"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "13.33"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "17.65"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "6.67"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "13.33"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "13.33"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "13.33"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "6.67"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "2.44"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "14",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "34.15"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "17.07"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "4.88"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "4.88"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "13",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "31.71"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "4.88"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "4.88"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "17.07"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "17.07"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "14",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "34.15"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "148",
+  "Budgeted Positions": "380",
+  "Vacancy Percentage": "38.95"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "168",
+  "Budgeted Positions": "382",
+  "Vacancy Percentage": "43.98"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "156",
+  "Budgeted Positions": "380",
+  "Vacancy Percentage": "41.05"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "141",
+  "Budgeted Positions": "380",
+  "Vacancy Percentage": "37.11"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "146",
+  "Budgeted Positions": "380",
+  "Vacancy Percentage": "38.42"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "169",
+  "Budgeted Positions": "382",
+  "Vacancy Percentage": "44.24"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "143",
+  "Budgeted Positions": "380",
+  "Vacancy Percentage": "37.63"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "146",
+  "Budgeted Positions": "380",
+  "Vacancy Percentage": "38.42"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "153",
+  "Budgeted Positions": "380",
+  "Vacancy Percentage": "40.26"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "166",
+  "Budgeted Positions": "380",
+  "Vacancy Percentage": "43.68"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "SYSTEM SECURITY DEPARTMENT",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "156",
+  "Budgeted Positions": "380",
+  "Vacancy Percentage": "41.05"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "26",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "3.57"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "3.57"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "26",
+  "Vacancy Percentage": "7.69"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "3.57"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "3.57"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EMERGENCY SECURITY OPERATIONS CENTER",
+  "Union": "TEAMS",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "10.71"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "OFFICE THE CHIEF OF POLICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "55.56"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "OFFICE THE CHIEF OF POLICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "55.56"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "OFFICE THE CHIEF OF POLICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "88.89"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "OFFICE THE CHIEF OF POLICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "77.78"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "OFFICE THE CHIEF OF POLICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "40.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "OFFICE THE CHIEF OF POLICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "88.89"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "OFFICE THE CHIEF OF POLICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "44.44"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "OFFICE THE CHIEF OF POLICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "44.44"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "OFFICE THE CHIEF OF POLICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "88.89"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "OFFICE THE CHIEF OF POLICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "88.89"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "OFFICE THE CHIEF OF POLICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "88.89"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "17.65"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "23.53"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "17.65"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "23.53"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "17.65"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "17.65"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "34",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "34",
+  "Vacancy Percentage": "2.94"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "34",
+  "Vacancy Percentage": "2.94"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "34",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "34",
+  "Vacancy Percentage": "2.94"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "34",
+  "Vacancy Percentage": "8.82"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "34",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "34",
+  "Vacancy Percentage": "8.82"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "34",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "34",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "34",
+  "Vacancy Percentage": "2.94"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "13.33"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "18.75"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "18.75"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "6.67"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "18.75"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "18.75"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "16",
+  "Vacancy Percentage": "6.25"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "64",
+  "Budgeted Positions": "99",
+  "Vacancy Percentage": "64.65"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "68",
+  "Budgeted Positions": "99",
+  "Vacancy Percentage": "68.69"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "67",
+  "Budgeted Positions": "99",
+  "Vacancy Percentage": "67.68"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "64",
+  "Budgeted Positions": "99",
+  "Vacancy Percentage": "64.65"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "65",
+  "Budgeted Positions": "99",
+  "Vacancy Percentage": "65.66"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "68",
+  "Budgeted Positions": "99",
+  "Vacancy Percentage": "68.69"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "63",
+  "Budgeted Positions": "99",
+  "Vacancy Percentage": "63.64"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "64",
+  "Budgeted Positions": "99",
+  "Vacancy Percentage": "64.65"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "69",
+  "Budgeted Positions": "99",
+  "Vacancy Percentage": "69.7"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "68",
+  "Budgeted Positions": "99",
+  "Vacancy Percentage": "68.69"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "68",
+  "Budgeted Positions": "99",
+  "Vacancy Percentage": "68.69"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "VEHICLE MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "66.67"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "18",
+  "Vacancy Percentage": "11.11"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "18",
+  "Vacancy Percentage": "11.11"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "18",
+  "Vacancy Percentage": "5.56"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "18",
+  "Vacancy Percentage": "11.11"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "18",
+  "Vacancy Percentage": "11.11"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "20.83"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "8.33"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "8.33"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "16.67"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "16.67"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "20.83"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "8.33"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "8.33"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "SERVICE DEVELOPMENT & SCHEDULING",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "8.33"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "1",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "1",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "1",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "1",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "1",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "1",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "1",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "1",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "1",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "1",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "CHIEF OPERATIONS OFFICE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "1",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-3",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-20.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-2",
+  "Budgeted Positions": "18",
+  "Vacancy Percentage": "-11.11"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-5",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-33.33"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-4",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-26.67"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-5",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-33.33"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-3",
+  "Budgeted Positions": "18",
+  "Vacancy Percentage": "-16.67"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-3",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-20.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-5",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-33.33"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-5",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-33.33"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-4",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-26.67"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "WORKFORCE MANAGEMENT",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "19",
+  "Budgeted Positions": "101",
+  "Vacancy Percentage": "18.81"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "17",
+  "Budgeted Positions": "95",
+  "Vacancy Percentage": "17.89"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "21",
+  "Budgeted Positions": "100",
+  "Vacancy Percentage": "21.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "20",
+  "Budgeted Positions": "101",
+  "Vacancy Percentage": "19.8"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "19",
+  "Budgeted Positions": "100",
+  "Vacancy Percentage": "19.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "18",
+  "Budgeted Positions": "96",
+  "Vacancy Percentage": "18.75"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "20",
+  "Budgeted Positions": "101",
+  "Vacancy Percentage": "19.8"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "19",
+  "Budgeted Positions": "101",
+  "Vacancy Percentage": "18.81"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "21",
+  "Budgeted Positions": "99",
+  "Vacancy Percentage": "21.21"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "17",
+  "Budgeted Positions": "95",
+  "Vacancy Percentage": "17.89"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "17",
+  "Budgeted Positions": "95",
+  "Vacancy Percentage": "17.89"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": null,
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-4738",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": null,
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-4657",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": null,
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-4656",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": null,
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-4711",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": null,
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-4684",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": null,
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-4685",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": null,
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-4753",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": null,
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-4788",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": null,
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-4703",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": null,
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-4696",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": null,
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-4735",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-3",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-20.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-4",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "-28.57"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-2",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-13.33"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-6.67"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-4",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "-28.57"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-3",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-20.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-3",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-20.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-2",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-13.33"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-3",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "-20.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-8",
+  "Budgeted Positions": "123",
+  "Vacancy Percentage": "-6.5"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-7",
+  "Budgeted Positions": "123",
+  "Vacancy Percentage": "-5.69"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-4",
+  "Budgeted Positions": "123",
+  "Vacancy Percentage": "-3.25"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-8",
+  "Budgeted Positions": "123",
+  "Vacancy Percentage": "-6.5"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-3",
+  "Budgeted Positions": "123",
+  "Vacancy Percentage": "-2.44"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-6",
+  "Budgeted Positions": "123",
+  "Vacancy Percentage": "-4.88"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-6",
+  "Budgeted Positions": "123",
+  "Vacancy Percentage": "-4.88"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-6",
+  "Budgeted Positions": "123",
+  "Vacancy Percentage": "-4.88"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-6",
+  "Budgeted Positions": "123",
+  "Vacancy Percentage": "-4.88"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-6",
+  "Budgeted Positions": "123",
+  "Vacancy Percentage": "-4.88"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-6",
+  "Budgeted Positions": "123",
+  "Vacancy Percentage": "-4.88"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "40",
+  "Vacancy Percentage": "7.5"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "40",
+  "Vacancy Percentage": "2.5"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "40",
+  "Vacancy Percentage": "2.5"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "40",
+  "Vacancy Percentage": "2.5"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "40",
+  "Vacancy Percentage": "7.5"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "40",
+  "Vacancy Percentage": "5.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "40",
+  "Vacancy Percentage": "5.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "40",
+  "Vacancy Percentage": "7.5"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "40",
+  "Vacancy Percentage": "5.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "40",
+  "Vacancy Percentage": "5.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "40",
+  "Vacancy Percentage": "5.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4136",
+  "Budgeted Positions": "4136",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4136",
+  "Budgeted Positions": "4136",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4136",
+  "Budgeted Positions": "4136",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4136",
+  "Budgeted Positions": "4136",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4136",
+  "Budgeted Positions": "4136",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4136",
+  "Budgeted Positions": "4136",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4136",
+  "Budgeted Positions": "4136",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4136",
+  "Budgeted Positions": "4136",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4136",
+  "Budgeted Positions": "4136",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4136",
+  "Budgeted Positions": "4136",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "BUS TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4136",
+  "Budgeted Positions": "4136",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, ADMINISTRATION AND DEVELOPMENT",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "51",
+  "Vacancy Percentage": "7.84"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "51",
+  "Vacancy Percentage": "9.8"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "51",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "51",
+  "Vacancy Percentage": "9.8"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "51",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "51",
+  "Vacancy Percentage": "7.84"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "51",
+  "Vacancy Percentage": "7.84"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "51",
+  "Vacancy Percentage": "9.8"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "51",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "51",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "51",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "297",
+  "Vacancy Percentage": "1.35"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "297",
+  "Vacancy Percentage": "2.69"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "297",
+  "Vacancy Percentage": "-0.34"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-9",
+  "Budgeted Positions": "297",
+  "Vacancy Percentage": "-3.03"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-7",
+  "Budgeted Positions": "297",
+  "Vacancy Percentage": "-2.36"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "297",
+  "Vacancy Percentage": "2.36"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-4",
+  "Budgeted Positions": "297",
+  "Vacancy Percentage": "-1.35"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "297",
+  "Vacancy Percentage": "2.02"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-2",
+  "Budgeted Positions": "297",
+  "Vacancy Percentage": "-0.67"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "10",
+  "Budgeted Positions": "297",
+  "Vacancy Percentage": "3.37"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "297",
+  "Vacancy Percentage": "2.69"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "21",
+  "Vacancy Percentage": "4.76"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "21",
+  "Vacancy Percentage": "14.29"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "21",
+  "Vacancy Percentage": "14.29"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "21",
+  "Vacancy Percentage": "14.29"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "21",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "21",
+  "Vacancy Percentage": "19.05"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "21",
+  "Vacancy Percentage": "19.05"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "21",
+  "Vacancy Percentage": "14.29"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "21",
+  "Vacancy Percentage": "14.29"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "21",
+  "Vacancy Percentage": "14.29"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "21",
+  "Vacancy Percentage": "14.29"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "143",
+  "Budgeted Positions": "143",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "143",
+  "Budgeted Positions": "143",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "143",
+  "Budgeted Positions": "143",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "143",
+  "Budgeted Positions": "143",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "143",
+  "Budgeted Positions": "143",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "143",
+  "Budgeted Positions": "143",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "143",
+  "Budgeted Positions": "143",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "143",
+  "Budgeted Positions": "143",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "143",
+  "Budgeted Positions": "143",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "143",
+  "Budgeted Positions": "143",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "CENTRAL OPERATIONS, TRANSIT SERVICE DELIVERY",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "143",
+  "Budgeted Positions": "143",
+  "Vacancy Percentage": "100.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "180",
+  "Budgeted Positions": "324",
+  "Vacancy Percentage": "55.56"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "171",
+  "Budgeted Positions": "324",
+  "Vacancy Percentage": "52.78"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "175",
+  "Budgeted Positions": "324",
+  "Vacancy Percentage": "54.01"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "183",
+  "Budgeted Positions": "324",
+  "Vacancy Percentage": "56.48"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "175",
+  "Budgeted Positions": "324",
+  "Vacancy Percentage": "54.01"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "171",
+  "Budgeted Positions": "324",
+  "Vacancy Percentage": "52.78"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "180",
+  "Budgeted Positions": "324",
+  "Vacancy Percentage": "55.56"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "183",
+  "Budgeted Positions": "324",
+  "Vacancy Percentage": "56.48"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "172",
+  "Budgeted Positions": "324",
+  "Vacancy Percentage": "53.09"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "171",
+  "Budgeted Positions": "324",
+  "Vacancy Percentage": "52.78"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "170",
+  "Budgeted Positions": "324",
+  "Vacancy Percentage": "52.47"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "-20.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "-20.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "-20.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "-20.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "29",
+  "Vacancy Percentage": "-3.45"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "29",
+  "Vacancy Percentage": "-3.45"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "29",
+  "Vacancy Percentage": "-3.45"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "29",
+  "Vacancy Percentage": "-3.45"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "29",
+  "Vacancy Percentage": "-3.45"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "29",
+  "Vacancy Percentage": "-3.45"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "29",
+  "Vacancy Percentage": "-3.45"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "29",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "29",
+  "Vacancy Percentage": "-3.45"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "29",
+  "Vacancy Percentage": "-3.45"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "29",
+  "Vacancy Percentage": "-3.45"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "21.43"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "50.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "42.86"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "35.71"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "35.71"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "50.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "21.43"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "28.57"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "42.86"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "42.86"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "42.86"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "11",
+  "Vacancy Percentage": "9.09"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "11",
+  "Vacancy Percentage": "9.09"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "11",
+  "Vacancy Percentage": "9.09"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "11",
+  "Vacancy Percentage": "9.09"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "11",
+  "Vacancy Percentage": "9.09"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "11",
+  "Vacancy Percentage": "9.09"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "11",
+  "Vacancy Percentage": "9.09"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "11",
+  "Vacancy Percentage": "9.09"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "11",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "11",
+  "Vacancy Percentage": "9.09"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "FACILITIES CONTRACTED MAINTENANCE & OPS CONTRACTS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "11",
+  "Vacancy Percentage": "9.09"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "13.33"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "14.29"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "13.33"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, BUS MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "15",
+  "Vacancy Percentage": "13.33"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "7.69"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "15.38"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "15.38"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "15.38"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "15.38"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "7.69"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "15.38"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "VEHICLE ENGINEERING & ACQUISITION",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-112",
+  "Budgeted Positions": "514",
+  "Vacancy Percentage": "-21.79"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-41",
+  "Budgeted Positions": "514",
+  "Vacancy Percentage": "-7.98"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-89",
+  "Budgeted Positions": "514",
+  "Vacancy Percentage": "-17.32"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-101",
+  "Budgeted Positions": "514",
+  "Vacancy Percentage": "-19.65"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-99",
+  "Budgeted Positions": "514",
+  "Vacancy Percentage": "-19.26"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-14",
+  "Budgeted Positions": "514",
+  "Vacancy Percentage": "-2.72"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-112",
+  "Budgeted Positions": "514",
+  "Vacancy Percentage": "-21.79"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-121",
+  "Budgeted Positions": "514",
+  "Vacancy Percentage": "-23.54"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-84",
+  "Budgeted Positions": "514",
+  "Vacancy Percentage": "-16.34"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-87",
+  "Budgeted Positions": "514",
+  "Vacancy Percentage": "-16.93"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-63",
+  "Budgeted Positions": "514",
+  "Vacancy Percentage": "-12.26"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "5.56"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "10",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "13.89"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "5.56"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "5.56"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "5.56"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "4.17"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "6.94"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "6.94"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "9.72"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "8.33"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "9",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "7.69"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "MOTORIST SERVICES & REGIONAL SHARED MOBILITY PRGMS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "MOTORIST SERVICES & REGIONAL SHARED MOBILITY PRGMS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "MOTORIST SERVICES & REGIONAL SHARED MOBILITY PRGMS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "MOTORIST SERVICES & REGIONAL SHARED MOBILITY PRGMS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "MOTORIST SERVICES & REGIONAL SHARED MOBILITY PRGMS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "MOTORIST SERVICES & REGIONAL SHARED MOBILITY PRGMS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "7.69"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "MOTORIST SERVICES & REGIONAL SHARED MOBILITY PRGMS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "MOTORIST SERVICES & REGIONAL SHARED MOBILITY PRGMS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "MOTORIST SERVICES & REGIONAL SHARED MOBILITY PRGMS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "MOTORIST SERVICES & REGIONAL SHARED MOBILITY PRGMS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "MOTORIST SERVICES & REGIONAL SHARED MOBILITY PRGMS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "13",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": null,
+  "Union": "ATU",
+  "Net Vacancy Overfill": "-1625",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": null,
+  "Union": "ATU",
+  "Net Vacancy Overfill": "-1555",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": null,
+  "Union": "ATU",
+  "Net Vacancy Overfill": "-1640",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": null,
+  "Union": "ATU",
+  "Net Vacancy Overfill": "-1642",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": null,
+  "Union": "ATU",
+  "Net Vacancy Overfill": "-1643",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": null,
+  "Union": "ATU",
+  "Net Vacancy Overfill": "-1534",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": null,
+  "Union": "ATU",
+  "Net Vacancy Overfill": "-1641",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": null,
+  "Union": "ATU",
+  "Net Vacancy Overfill": "-1620",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": null,
+  "Union": "ATU",
+  "Net Vacancy Overfill": "-1625",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": null,
+  "Union": "ATU",
+  "Net Vacancy Overfill": "-1598",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": null,
+  "Union": "ATU",
+  "Net Vacancy Overfill": "-1580",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "30",
+  "Budgeted Positions": "273",
+  "Vacancy Percentage": "10.99"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "35",
+  "Budgeted Positions": "273",
+  "Vacancy Percentage": "12.82"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "32",
+  "Budgeted Positions": "273",
+  "Vacancy Percentage": "11.72"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "34",
+  "Budgeted Positions": "273",
+  "Vacancy Percentage": "12.45"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "32",
+  "Budgeted Positions": "273",
+  "Vacancy Percentage": "11.72"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "33",
+  "Budgeted Positions": "273",
+  "Vacancy Percentage": "12.09"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "31",
+  "Budgeted Positions": "273",
+  "Vacancy Percentage": "11.36"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "32",
+  "Budgeted Positions": "273",
+  "Vacancy Percentage": "11.72"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "31",
+  "Budgeted Positions": "273",
+  "Vacancy Percentage": "11.36"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "31",
+  "Budgeted Positions": "273",
+  "Vacancy Percentage": "11.36"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "FACILITIES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "34",
+  "Budgeted Positions": "273",
+  "Vacancy Percentage": "12.45"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "16.67"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "16.67"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "16.67"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "16.67"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "16.67"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "16.67"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "83.33"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "83.33"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "26",
+  "Vacancy Percentage": "15.38"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "12.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "26",
+  "Vacancy Percentage": "15.38"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "26",
+  "Vacancy Percentage": "15.38"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "26",
+  "Vacancy Percentage": "15.38"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "16.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "26",
+  "Vacancy Percentage": "15.38"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "26",
+  "Vacancy Percentage": "11.54"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "26",
+  "Vacancy Percentage": "19.23"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "8.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "12.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1059",
+  "Budgeted Positions": "1062",
+  "Vacancy Percentage": "99.72"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1059",
+  "Budgeted Positions": "1062",
+  "Vacancy Percentage": "99.72"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1059",
+  "Budgeted Positions": "1062",
+  "Vacancy Percentage": "99.72"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1059",
+  "Budgeted Positions": "1062",
+  "Vacancy Percentage": "99.72"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1059",
+  "Budgeted Positions": "1062",
+  "Vacancy Percentage": "99.72"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1059",
+  "Budgeted Positions": "1062",
+  "Vacancy Percentage": "99.72"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1059",
+  "Budgeted Positions": "1062",
+  "Vacancy Percentage": "99.72"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1059",
+  "Budgeted Positions": "1062",
+  "Vacancy Percentage": "99.72"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1059",
+  "Budgeted Positions": "1062",
+  "Vacancy Percentage": "99.72"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1059",
+  "Budgeted Positions": "1062",
+  "Vacancy Percentage": "99.72"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1059",
+  "Budgeted Positions": "1062",
+  "Vacancy Percentage": "99.72"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-5",
+  "Budgeted Positions": "60",
+  "Vacancy Percentage": "-8.33"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-4",
+  "Budgeted Positions": "60",
+  "Vacancy Percentage": "-6.67"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-5",
+  "Budgeted Positions": "60",
+  "Vacancy Percentage": "-8.33"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-5",
+  "Budgeted Positions": "60",
+  "Vacancy Percentage": "-8.33"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-5",
+  "Budgeted Positions": "60",
+  "Vacancy Percentage": "-8.33"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-6",
+  "Budgeted Positions": "60",
+  "Vacancy Percentage": "-10.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-8",
+  "Budgeted Positions": "60",
+  "Vacancy Percentage": "-13.33"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-6",
+  "Budgeted Positions": "60",
+  "Vacancy Percentage": "-10.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-5",
+  "Budgeted Positions": "60",
+  "Vacancy Percentage": "-8.33"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-5",
+  "Budgeted Positions": "60",
+  "Vacancy Percentage": "-8.33"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-6",
+  "Budgeted Positions": "60",
+  "Vacancy Percentage": "-10.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "2.78"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "4.17"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "4.17"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "2.78"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "2.78"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "1.39"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "1.39"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "4.17"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "4.17"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "72",
+  "Vacancy Percentage": "4.17"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "5.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "5.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "5.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "BUS DIVISION MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "20",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "CONTRACT SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "CONTRACT SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "CONTRACT SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "CONTRACT SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "CONTRACT SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "CONTRACT SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "CONTRACT SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "CONTRACT SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "CONTRACT SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "CONTRACT SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "CONTRACT SERVICES",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "5",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-6",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-10",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-7",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-7",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-7",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-10",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-6",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-5",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-7",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-8",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "MICROTRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-8",
+  "Budgeted Positions": "0",
+  "Vacancy Percentage": "-1.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "30.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "50.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "10",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "21.43"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "21.43"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "17.86"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "28",
+  "Vacancy Percentage": "21.43"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "27",
+  "Vacancy Percentage": "18.52"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "27",
+  "Vacancy Percentage": "18.52"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "27",
+  "Vacancy Percentage": "18.52"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "27",
+  "Vacancy Percentage": "18.52"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "27",
+  "Vacancy Percentage": "22.22"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "27",
+  "Vacancy Percentage": "18.52"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, MAINTENANCE AND ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "27",
+  "Vacancy Percentage": "14.81"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "-25.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "-25.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-2",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "-50.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "-25.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "4",
+  "Vacancy Percentage": "-25.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "54",
+  "Vacancy Percentage": "5.56"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "54",
+  "Vacancy Percentage": "12.96"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "54",
+  "Vacancy Percentage": "14.81"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "54",
+  "Vacancy Percentage": "14.81"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "54",
+  "Vacancy Percentage": "14.81"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "54",
+  "Vacancy Percentage": "14.81"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "54",
+  "Vacancy Percentage": "12.96"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "54",
+  "Vacancy Percentage": "5.56"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "7",
+  "Budgeted Positions": "54",
+  "Vacancy Percentage": "12.96"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "54",
+  "Vacancy Percentage": "11.11"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "6",
+  "Budgeted Positions": "54",
+  "Vacancy Percentage": "11.11"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "20.83"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "16.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "20.83"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "16.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "16.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "16.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "16.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "12.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "20.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "16.67"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "NC",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "24",
+  "Vacancy Percentage": "20.83"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "17",
+  "Budgeted Positions": "415",
+  "Vacancy Percentage": "4.1"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "41",
+  "Budgeted Positions": "415",
+  "Vacancy Percentage": "9.88"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "415",
+  "Vacancy Percentage": "1.93"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "10",
+  "Budgeted Positions": "415",
+  "Vacancy Percentage": "2.41"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "9",
+  "Budgeted Positions": "415",
+  "Vacancy Percentage": "2.17"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "39",
+  "Budgeted Positions": "415",
+  "Vacancy Percentage": "9.4"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "9",
+  "Budgeted Positions": "415",
+  "Vacancy Percentage": "2.17"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "19",
+  "Budgeted Positions": "415",
+  "Vacancy Percentage": "4.58"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "17",
+  "Budgeted Positions": "415",
+  "Vacancy Percentage": "4.1"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "17",
+  "Budgeted Positions": "415",
+  "Vacancy Percentage": "4.1"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "RAIL MAINTENANCE OF WAY & MOW ENGINEERING",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "38",
+  "Budgeted Positions": "415",
+  "Vacancy Percentage": "9.16"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "6",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "7",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "7",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "7",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "7",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "7",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "7",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "7",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "7",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "7",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "7",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "7",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "335",
+  "Budgeted Positions": "713",
+  "Vacancy Percentage": "46.98"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "351",
+  "Budgeted Positions": "713",
+  "Vacancy Percentage": "49.23"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "356",
+  "Budgeted Positions": "713",
+  "Vacancy Percentage": "49.93"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "353",
+  "Budgeted Positions": "713",
+  "Vacancy Percentage": "49.51"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "356",
+  "Budgeted Positions": "713",
+  "Vacancy Percentage": "49.93"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "350",
+  "Budgeted Positions": "713",
+  "Vacancy Percentage": "49.09"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "350",
+  "Budgeted Positions": "713",
+  "Vacancy Percentage": "49.09"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "329",
+  "Budgeted Positions": "713",
+  "Vacancy Percentage": "46.14"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "355",
+  "Budgeted Positions": "713",
+  "Vacancy Percentage": "49.79"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "353",
+  "Budgeted Positions": "713",
+  "Vacancy Percentage": "49.51"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "353",
+  "Budgeted Positions": "713",
+  "Vacancy Percentage": "49.51"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "11.11"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "9",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "-1",
+  "Budgeted Positions": "50",
+  "Vacancy Percentage": "-2.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "50",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "50",
+  "Vacancy Percentage": "2.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "50",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "50",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "50",
+  "Vacancy Percentage": "10.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "50",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "50",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "50",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "50",
+  "Vacancy Percentage": "8.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "50",
+  "Vacancy Percentage": "8.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "RAIL FLEET SERVICES MAINTENANCE",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE DIRECTOR, RAIL MAINTENANCE",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "17.65"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "EXECUTIVE OFFICE, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "11.76"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "EXECUTIVE OFFICE, TRANSIT SERVICE DELIVERY",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "17",
+  "Vacancy Percentage": "5.88"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "25.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "14",
+  "Budgeted Positions": "107",
+  "Vacancy Percentage": "13.08"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "17",
+  "Budgeted Positions": "107",
+  "Vacancy Percentage": "15.89"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "18",
+  "Budgeted Positions": "107",
+  "Vacancy Percentage": "16.82"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "24",
+  "Budgeted Positions": "107",
+  "Vacancy Percentage": "22.43"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "25",
+  "Budgeted Positions": "107",
+  "Vacancy Percentage": "23.36"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "17",
+  "Budgeted Positions": "107",
+  "Vacancy Percentage": "15.89"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "19",
+  "Budgeted Positions": "107",
+  "Vacancy Percentage": "17.76"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "13",
+  "Budgeted Positions": "107",
+  "Vacancy Percentage": "12.15"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "18",
+  "Budgeted Positions": "107",
+  "Vacancy Percentage": "16.82"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "18",
+  "Budgeted Positions": "107",
+  "Vacancy Percentage": "16.82"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "18",
+  "Budgeted Positions": "107",
+  "Vacancy Percentage": "16.82"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "14.29"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "7.14"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "14",
+  "Vacancy Percentage": "14.29"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-78",
+  "Budgeted Positions": "395",
+  "Vacancy Percentage": "-19.75"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-85",
+  "Budgeted Positions": "395",
+  "Vacancy Percentage": "-21.52"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-71",
+  "Budgeted Positions": "395",
+  "Vacancy Percentage": "-17.97"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-69",
+  "Budgeted Positions": "395",
+  "Vacancy Percentage": "-17.47"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-75",
+  "Budgeted Positions": "395",
+  "Vacancy Percentage": "-18.99"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-89",
+  "Budgeted Positions": "395",
+  "Vacancy Percentage": "-22.53"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-78",
+  "Budgeted Positions": "395",
+  "Vacancy Percentage": "-19.75"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-83",
+  "Budgeted Positions": "395",
+  "Vacancy Percentage": "-21.01"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-72",
+  "Budgeted Positions": "395",
+  "Vacancy Percentage": "-18.23"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-84",
+  "Budgeted Positions": "395",
+  "Vacancy Percentage": "-21.27"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "RAIL TRANSIT OPERATIONS",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "-81",
+  "Budgeted Positions": "395",
+  "Vacancy Percentage": "-20.51"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "ITS/SPEED & RELIABILITY GROUP",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "12",
+  "Vacancy Percentage": "8.33"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "ITS/SPEED & RELIABILITY GROUP",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "12",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "ITS/SPEED & RELIABILITY GROUP",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "12",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "ITS/SPEED & RELIABILITY GROUP",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "12",
+  "Vacancy Percentage": "8.33"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "ITS/SPEED & RELIABILITY GROUP",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "12",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "ITS/SPEED & RELIABILITY GROUP",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "12",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "ITS/SPEED & RELIABILITY GROUP",
+  "Union": "NC",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "12",
+  "Vacancy Percentage": "8.33"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "ITS/SPEED & RELIABILITY GROUP",
+  "Union": "NC",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "12",
+  "Vacancy Percentage": "16.67"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "ITS/SPEED & RELIABILITY GROUP",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "12",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "ITS/SPEED & RELIABILITY GROUP",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "12",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "ITS/SPEED & RELIABILITY GROUP",
+  "Union": "NC",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "12",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "8.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "12.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "12.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "8.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "8.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "12.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "8.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "2",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "8.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "12.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "4",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "16.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "OPERATIONS STRATEGIC INITIATIVE",
+  "Union": "UTU",
+  "Net Vacancy Overfill": "3",
+  "Budgeted Positions": "25",
+  "Vacancy Percentage": "12.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "9",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "21.95"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "10",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "24.39"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "9",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "21.95"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "9",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "21.95"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "9",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "21.95"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "10",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "24.39"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "9",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "21.95"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "5",
+  "Budgeted Positions": "40",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "19.51"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "8",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "19.51"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "ATU",
+  "Net Vacancy Overfill": "10",
+  "Budgeted Positions": "41",
+  "Vacancy Percentage": "24.39"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "3",
+  "Vacancy Percentage": "33.33"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "AFSCME",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "2",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "APR-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "AUG-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "DEC-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "FEB-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JAN-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "JUL-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "MAR-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "MAY-26",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "0",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "0.0"
+}, {
+  "Snapshot Period": "NOV-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "OCT-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "12.5"
+}, {
+  "Snapshot Period": "SEP-25",
+  "Charging Dept Name": "INFORMATION TECHNOLOGY SERVICES",
+  "Union": "TCU",
+  "Net Vacancy Overfill": "1",
+  "Budgeted Positions": "8",
+  "Vacancy Percentage": "12.5"
+}]
