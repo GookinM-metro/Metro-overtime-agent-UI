@@ -308,10 +308,19 @@ export default function App() {
   });
 
   // Chat message containers
-  const [chatMessages, setChatMessages] = useState([]);
+  const [chatMessages, setChatMessages] = useState(() => {
+    try {
+      const saved = localStorage.getItem("chatHistory");
+      return saved ? JSON.parse(saved) : [];
+    } catch (e) {
+      console.error("Error loading chat history from localStorage:", e);
+      return [];
+    }
+  });
   const [isThinking, setIsThinking] = useState(false);
   const [thinkingStatusText, setThinkingStatusText] = useState("");
   const [chatInputText, setChatInputText] = useState("");
+  const [showScrollButton, setShowScrollButton] = useState(false);
 
   // --- REFS FOR CHARTS AND ANIMATIONS ---
   const trendChartCanvasRef = useRef(null);
@@ -320,6 +329,8 @@ export default function App() {
   const driversChartInstanceRef = useRef(null);
   const chatMessagesContainerRef = useRef(null);
   const metricsGridRef = useRef(null);
+  const isAutoScrollingRef = useRef(false);
+  const autoScrollTimeoutRef = useRef(null);
 
   // Sync references to solve closure lag on Chart.js callbacks
   const eventsListRef = useRef([]);
@@ -1853,6 +1864,15 @@ export default function App() {
 
   // Load welcome agent greeting on mount
   useEffect(() => {
+    try {
+      const saved = localStorage.getItem("chatHistory");
+      if (saved && JSON.parse(saved).length > 0) {
+        return;
+      }
+    } catch (e) {
+      console.error("Error reading chatHistory on mount:", e);
+    }
+
     const greetingTimestamp = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
     
     // Format YTD/Year tags on initial load
@@ -1882,6 +1902,18 @@ How can I help you analyze these spikes today? Feel free to click any of the **s
     setChatMessages([initialGreeting]);
   }, []);
 
+  // Serialize chat messages (filtering out typing placeholders) to localStorage
+  useEffect(() => {
+    try {
+      const messagesToSave = chatMessages.filter(msg => !msg.isPlaceholder);
+      if (messagesToSave.length > 0) {
+        localStorage.setItem("chatHistory", JSON.stringify(messagesToSave));
+      }
+    } catch (e) {
+      console.error("Error saving chat history to localStorage:", e);
+    }
+  }, [chatMessages]);
+
   // Expose local trigger to global overlay clicks
   useEffect(() => {
     onAskAgentRef.current = (msg) => {
@@ -1889,11 +1921,25 @@ How can I help you analyze these spikes today? Feel free to click any of the **s
     };
   }, [triggerAgentResponse]);
 
-  // Scroll chat messages list to absolute bottom
+  // Scroll chat messages list to absolute bottom with smooth behavior
   const scrollToBottom = () => {
+    isAutoScrollingRef.current = true;
+    setShowScrollButton(false);
+
+    if (autoScrollTimeoutRef.current) {
+      clearTimeout(autoScrollTimeoutRef.current);
+    }
+
+    autoScrollTimeoutRef.current = setTimeout(() => {
+      isAutoScrollingRef.current = false;
+    }, 2000); // Generous safety fallback timeout for extremely long smooth scrolls
+
     setTimeout(() => {
       if (chatMessagesContainerRef.current) {
-        chatMessagesContainerRef.current.scrollTop = chatMessagesContainerRef.current.scrollHeight;
+        chatMessagesContainerRef.current.scrollTo({
+          top: chatMessagesContainerRef.current.scrollHeight,
+          behavior: 'smooth'
+        });
       }
     }, 50);
   };
@@ -1901,6 +1947,23 @@ How can I help you analyze these spikes today? Feel free to click any of the **s
   useEffect(() => {
     scrollToBottom();
   }, [chatMessages]);
+
+  const handleChatScroll = () => {
+    if (chatMessagesContainerRef.current) {
+      const { scrollTop, scrollHeight, clientHeight } = chatMessagesContainerRef.current;
+      
+      // If we are currently auto-scrolling, or if we are close to the bottom, hide the scroll button
+      if (isAutoScrollingRef.current || (scrollHeight - scrollTop - clientHeight <= 100)) {
+        setShowScrollButton(false);
+        // Safely clear auto-scroll once we have successfully reached the bottom area
+        if (scrollHeight - scrollTop - clientHeight <= 15) {
+          isAutoScrollingRef.current = false;
+        }
+      } else {
+        setShowScrollButton(true);
+      }
+    }
+  };
 
   const handleSendMessage = () => {
     if (chatInputText.trim().length === 0) return;
@@ -1933,6 +1996,11 @@ How can I help you analyze these spikes today? Feel free to click any of the **s
       isPlaceholder: false
     };
     setChatMessages([initialGreeting]);
+    try {
+      localStorage.setItem("chatHistory", JSON.stringify([initialGreeting]));
+    } catch (e) {
+      console.error("Error clearing chat history in localStorage:", e);
+    }
   };
 
 
@@ -2187,23 +2255,37 @@ How can I help you analyze these spikes today? Feel free to click any of the **s
         </div>
 
         {/* CHAT LOG SCREEN */}
-        <div className="chat-messages" ref={chatMessagesContainerRef}>
-          {chatMessages.map((msg, index) => (
-            <div key={index} className={`chat-bubble-container ${msg.sender}`}>
-              <div className="chat-bubble">
-                {msg.isPlaceholder ? (
-                  <div className="bubble-typing-indicator">
-                    <span className="dot"></span>
-                    <span className="dot"></span>
-                    <span className="dot"></span>
-                  </div>
-                ) : (
-                  <div dangerouslySetInnerHTML={{ __html: marked.parse(msg.text) }} />
-                )}
+        <div className="chat-messages-wrapper" style={{ position: 'relative', flex: 1, display: 'flex', flexDirection: 'column', minHeight: 0 }}>
+          <div className="chat-messages" ref={chatMessagesContainerRef} onScroll={handleChatScroll}>
+            {chatMessages.map((msg, index) => (
+              <div key={index} className={`chat-bubble-container ${msg.sender}`}>
+                <div className="chat-bubble">
+                  {msg.isPlaceholder ? (
+                    <div className="bubble-typing-indicator">
+                      <span className="dot"></span>
+                      <span className="dot"></span>
+                      <span className="dot"></span>
+                    </div>
+                  ) : (
+                    <div dangerouslySetInnerHTML={{ __html: marked.parse(msg.text) }} />
+                  )}
+                </div>
+                <span className="chat-time">{msg.time}</span>
               </div>
-              <span className="chat-time">{msg.time}</span>
-            </div>
-          ))}
+            ))}
+          </div>
+          {showScrollButton && (
+            <button 
+              className="chat-scroll-bottom-btn" 
+              onClick={() => {
+                scrollToBottom();
+                setShowScrollButton(false);
+              }}
+              title="Scroll to bottom"
+            >
+              <ChevronDown className="icon-sm" style={{ width: '16px', height: '16px' }} />
+            </button>
+          )}
         </div>
 
         {/* SUGGESTED QUERY CHIPS */}

@@ -2185,3 +2185,65 @@ button, input, select, textarea {
         background-color: var(--color-violet);
     }
 }
+
+/* CHAT LOG SCROLL TO BOTTOM BUTTON */
+.chat-scroll-bottom-btn {
+    position: absolute;
+    bottom: 20px;
+    right: 24px;
+    width: 34px;
+    height: 34px;
+    border-radius: var(--radius-inner, 8px);
+    background: #e2e8f0; /* Solid light gray */
+    border: 1px solid var(--border-glass, rgba(0, 0, 0, 0.06));
+    color: #000000; /* Solid black down arrow */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+    transition: background 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+                border-color 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+                color 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+                box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    animation: fade-scale-in 0.2s ease-out;
+}
+
+.chat-scroll-bottom-btn:hover {
+    /* Gray with lower opacity purple on top of it */
+    background: linear-gradient(rgba(160, 93, 165, 0.15), rgba(160, 93, 165, 0.15)), #e2e8f0;
+    border-color: var(--color-violet, #a05da5);
+    color: #000000; /* Arrow remains black on hover */
+    box-shadow: 0 6px 16px rgba(160, 93, 165, 0.2);
+    transform: none !important;
+}
+
+/* DARK MODE CONFIGS */
+body.dark-theme .chat-scroll-bottom-btn {
+    background: #1e293b; /* Dark solid slate gray */
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: #ffffff; /* Lighter white down arrow for contrast */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+body.dark-theme .chat-scroll-bottom-btn:hover {
+    background: linear-gradient(rgba(181, 124, 185, 0.15), rgba(181, 124, 185, 0.15)), #1e293b;
+    border-color: var(--color-violet, #b57cb9);
+    color: #ffffff;
+    box-shadow: 0 6px 16px rgba(181, 124, 185, 0.25);
+    transform: none !important;
+}
+
+@keyframes fade-scale-in {
+    from {
+        opacity: 0;
+        transform: scale(0.8) translateY(4px);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+    }
+}
