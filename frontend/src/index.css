@@ -175,9 +175,18 @@ body,
 .glass-panel,
 .dashboard-table th,
 .dashboard-table td,
+.table-wrapper,
 .chat-messages,
 .chat-input-container,
 .suggested-queries-area,
+.chat-bubble,
+.chat-bubble *,
+.logo-text h1,
+h1, h2, h3, h4, h5, h6,
+.metric-value,
+.metric-label,
+.metric-subtext,
+.card-subtitle,
 button, input, select, textarea {
     transition: background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1),
                 color 0.3s cubic-bezier(0.4, 0, 0.2, 1),
@@ -741,78 +750,92 @@ button, input, select, textarea {
 }
 
 .custom-checkbox {
-    width: 14px;
-    height: 14px;
+    width: 16px;
+    height: 16px;
     background-color: var(--bg-checkbox);
-    border: 1px solid var(--border-glass);
+    border: 1.5px solid var(--border-glass);
     border-radius: var(--radius-inner);
     display: inline-block;
     position: relative;
-    transition: var(--transition-fast);
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.checkbox-wrapper:hover input ~ .custom-checkbox {
-    border-color: var(--border-glass-hover);
-    background-color: rgba(255, 255, 255, 0.1);
+/* Unchecked in dark mode: white/whitish border and dark black background */
+.dark-theme .custom-checkbox {
+    border-color: rgba(255, 255, 255, 0.24) !important;
+    background-color: #0c0d16 !important;
 }
 
+.checkbox-wrapper:hover input:not(:checked) ~ .custom-checkbox {
+    border-color: var(--color-violet);
+    background-color: rgba(160, 93, 165, 0.05);
+}
+
+.dark-theme .checkbox-wrapper:hover input:not(:checked) ~ .custom-checkbox {
+    border-color: var(--color-violet) !important;
+    background-color: var(--color-violet-glow) !important;
+}
+
+/* Set local accent variables for checked states */
 .checkbox-wrapper input:checked ~ .custom-checkbox {
-    background-color: var(--color-cyan);
-    border-color: var(--color-cyan);
+    --check-accent: var(--color-cyan);
 }
-
-/* Violet driver-specific checkboxes */
 .driver-violet input:checked ~ .custom-checkbox {
-    background-color: var(--color-violet); border-color: var(--color-violet);
+    --check-accent: var(--color-violet);
 }
 .driver-cyan input:checked ~ .custom-checkbox {
-    background-color: var(--color-cyan); border-color: var(--color-cyan);
+    --check-accent: var(--color-cyan);
 }
 .driver-rose input:checked ~ .custom-checkbox {
-    background-color: var(--color-rose); border-color: var(--color-rose);
+    --check-accent: var(--color-rose);
 }
 .driver-warning input:checked ~ .custom-checkbox {
-    background-color: var(--color-amber); border-color: var(--color-amber);
+    --check-accent: var(--color-amber);
 }
 .driver-muted input:checked ~ .custom-checkbox {
-    background-color: var(--text-muted); border-color: var(--text-muted);
+    --check-accent: var(--text-muted);
 }
-
 #toggle-vacancies:checked ~ .custom-checkbox {
-    background-color: var(--color-cyan);
-    border-color: var(--color-cyan);
+    --check-accent: var(--color-cyan);
 }
-
 #toggle-ot-hours:checked ~ .custom-checkbox {
-    background-color: var(--color-violet);
-    border-color: var(--color-violet);
+    --check-accent: var(--color-violet);
 }
-
 #toggle-trendline:checked ~ .custom-checkbox {
-    background-color: var(--color-amber);
-    border-color: var(--color-amber);
+    --check-accent: var(--color-amber);
 }
-
 #toggle-events-overlay:checked ~ .custom-checkbox {
-    background-color: var(--color-rose);
-    border-color: var(--color-rose);
+    --check-accent: var(--color-rose);
 }
 
+/* Checked state (colored outline, colored checkmark, no filled background) for both light & dark themes */
+.checkbox-wrapper input:checked ~ .custom-checkbox {
+    background-color: var(--bg-checkbox) !important;
+    border-color: var(--check-accent) !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+.checkbox-wrapper input:checked ~ .custom-checkbox::after {
+    border-color: var(--check-accent) !important;
+}
+
+/* Center Checkmark centering rules (left: 5px, top: 1px, width: 4px, height: 8px) */
 .custom-checkbox::after {
     content: "";
     position: absolute;
-    display: none;
     left: 4px;
     top: 1px;
     width: 4px;
-    height: 7px;
+    height: 8px;
     border: solid white;
     border-width: 0 2px 2px 0;
-    transform: rotate(45deg);
+    transform: rotate(45deg) scale(0);
+    opacity: 0;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .checkbox-wrapper input:checked ~ .custom-checkbox::after {
-    display: block;
+    transform: rotate(45deg) scale(1);
+    opacity: 1;
 }
 
 .checkbox-text {

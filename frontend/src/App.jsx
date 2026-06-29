@@ -260,7 +260,10 @@ export default function App() {
   const [pageInputValue, setPageInputValue] = useState("1");
 
   // Theme settings
-  const [darkMode, setDarkMode] = useState(false);
+  const [darkMode, setDarkMode] = useState(() => {
+    const saved = localStorage.getItem("darkMode");
+    return saved === "true"; // Default to false (light mode) if not set
+  });
 
   // Sync state
   const [syncStatus, setSyncStatus] = useState("Sync"); // "Sync" | "Syncing..." | "Synced"
@@ -506,17 +509,6 @@ export default function App() {
     }
   };
 
-  // --- THEME SYNC ---
-  useEffect(() => {
-    if (darkMode) {
-      document.body.classList.add("dark-theme");
-    } else {
-      document.body.classList.remove("dark-theme");
-    }
-    // Update chart configs dynamically
-    updateTrendChart();
-    updateDriversChart();
-  }, [darkMode]);
 
   // --- SYNC DATA BUTTON ---
   const handleSyncData = async () => {
@@ -1027,9 +1019,14 @@ export default function App() {
         const slideOffset = (1.0 - progressRef.current.eventsProgress) * chartArea.height;
         const months = chart.data.labels;
         const isDark = darkModeRef.current;
-
+        const tracker = document.getElementById("theme-transition-tracker");
         let badgeBg = isDark ? "#0c0d16" : "#ffffff";
         let badgeTextHover = isDark ? "#ffffff" : "#0f172a";
+        if (tracker) {
+          const comp = window.getComputedStyle(tracker);
+          badgeBg = comp.backgroundColor;
+          badgeTextHover = comp.color;
+        }
 
         canvasCtx.save();
         canvasCtx.beginPath();
@@ -1638,7 +1635,12 @@ export default function App() {
     chart.data.labels = labels;
     chart.data.datasets[0].data = values;
     chart.data.datasets[0].backgroundColor = colors;
-    chart.data.datasets[0].borderColor = isDark ? '#07080d' : '#ffffff';
+    const tracker = document.getElementById("theme-transition-tracker");
+    let chartBorderColor = isDark ? '#07080d' : '#ffffff';
+    if (tracker) {
+      chartBorderColor = window.getComputedStyle(tracker).backgroundColor;
+    }
+    chart.data.datasets[0].borderColor = chartBorderColor;
 
     chart.options.plugins.tooltip.backgroundColor = isDark ? '#12131a' : '#ffffff';
     chart.options.plugins.tooltip.titleColor = isDark ? '#f8fafc' : '#0f172a';
@@ -1647,6 +1649,37 @@ export default function App() {
 
     chart.update();
   }, [drivers, enabledDrivers]);
+
+  // --- THEME SYNC ---
+  useEffect(() => {
+    if (darkMode) {
+      document.body.classList.add("dark-theme");
+    } else {
+      document.body.classList.remove("dark-theme");
+    }
+    localStorage.setItem("darkMode", darkMode.toString());
+    
+    // Update chart configs dynamically over the transition period (320ms)
+    // so canvas drawings (event badges & doughnut borders) update smoothly in sync with CSS transitions
+    const duration = 320;
+    const startTime = performance.now();
+    let animId;
+    
+    const animateThemeTransition = () => {
+      const elapsed = performance.now() - startTime;
+      updateTrendChart();
+      updateDriversChart();
+      if (elapsed < duration) {
+        animId = requestAnimationFrame(animateThemeTransition);
+      }
+    };
+    
+    animateThemeTransition();
+    
+    return () => {
+      if (animId) cancelAnimationFrame(animId);
+    };
+  }, [darkMode, updateTrendChart, updateDriversChart]);
 
   useEffect(() => {
     if (!driversChartCanvasRef.current) return;
